@@ -1,6 +1,7 @@
 # cis-hardening-checker
 
-automates CIS Benchmark compliance checks on RHEL servers over SSH. reads rules from a yaml config, runs the check commands on the target server, and tells you what passed/failed.
+Automates CIS Benchmark compliance checks on RHEL servers over SSH. 
+reads rules from a yaml config, runs the check commands on the target server, and tells you what passed/failed.
 
 ## setup
 
